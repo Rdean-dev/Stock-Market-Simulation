@@ -14,44 +14,44 @@ This project simulates a stock market candlestick chart and analyzes candlestick
 
 
 
-Features
+Features:
 
 
 
-Simulated Real-Time Candlestick Display  
+   Simulated Real-Time Candlestick Display  
 
-Streams historical stock candlesticks at intervals controlled by a scrollbar or textbox.
-
-
-
-Candlestick Pattern Recognition
-
-Identifies common 1- and 2-candlestick patterns including:  
-
- - Dojis (regular, dragonfly, gravestone)  
-
- - Marubozus (bullish/bearish)  
-
- - Hammers and Inverted Hammers (bullish/bearish)  
-
- - Engulfing Patterns and Haramis  
-
-
-
-Interactive Visualization  
-
- Patterns are highlighted with annotations on the candlestick chart. Users can filter and select patterns from a ComboBox.
-
-
-
-Date Range Filtering 
-
-Filter displayed candlesticks by start and end date.
-
-
-
----
-
-
-
+   Streams historical stock candlesticks at intervals controlled by a scrollbar or textbox.
+   
+   
+   
+   Candlestick Pattern Recognition
+   
+   Identifies common 1- and 2-candlestick patterns including:  
+   
+    - Dojis (regular, dragonfly, gravestone)  
+   
+    - Marubozus (bullish/bearish)  
+   
+    - Hammers and Inverted Hammers (bullish/bearish)  
+   
+    - Engulfing Patterns and Haramis  
+   
+   
+   
+   Interactive Visualization  
+   
+    Patterns are highlighted with annotations on the candlestick chart. Users can filter and select patterns from a ComboBox.
+   
+   
+   
+   Date Range Filtering 
+   
+   Filter displayed candlesticks by start and end date.
+   
+   
+   
+   ---
+   
+   
+   
 
