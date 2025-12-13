@@ -34,7 +34,7 @@ Features:
    
     - Hammers and Inverted Hammers (bullish/bearish)  
    
-    - Engulfing Patterns and Haramis  
+    - Engulfing Patterns and Haramis (bullish/bearish) 
    
    
    
@@ -51,6 +51,8 @@ Features:
    
    
    ---
+   Demo
+   [Watch the 30-second demo video] (https://youtu.be/gcDEZv4hSug)
    
    
    
