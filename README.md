@@ -1,8 +1,8 @@
-\# Stock Market Simulation Candlestick Pattern Analyzer
+Stock Market Simulation Candlestick Pattern Analyzer
 
 
 
-\*\*Technology:\*\* C#, WinForms  
+Technology: C#, WinForms  
 
 
 
@@ -14,11 +14,11 @@ This project simulates a stock market candlestick chart and analyzes candlestick
 
 
 
-\## Features
+Features
 
 
 
-\- \*\*Simulated Real-Time Candlestick Display\*\*  
+Simulated Real-Time Candlestick Display  
 
 &nbsp; Streams historical stock candlesticks at intervals controlled by a scrollbar or textbox.
 
