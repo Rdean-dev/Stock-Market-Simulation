@@ -56,4 +56,12 @@ Features:
    
    
    
+   Running the Demo
+
+   The application includes sample historical stock data.
+   
+   1. Download the ZIP from Releases
+   2. Extract the folder
+   3. Run StockMarketSimulation.exe
+   4. Select a stock file
 
