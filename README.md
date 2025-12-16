@@ -1,4 +1,5 @@
 Stock Market Simulation Candlestick Pattern Analyzer
+---
 
 
 
@@ -15,6 +16,7 @@ This project simulates a stock market candlestick chart and analyzes candlestick
 
 
 Features:
+---
 
 
 
